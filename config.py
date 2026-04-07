@@ -1,5 +1,5 @@
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-ADMIN_IDS = [123456789]
-SESSION_PRICE = 5  # رصيد مخصوم لكل عملية
-API_ID = 12345
-API_HASH = "your_api_hash"
+BOT_TOKEN = "8129933191:AAGCzT-TmGBeHW2bnfriEyvSWH-KgzP_r_0"
+ADMIN_IDS = [8168134514]
+SESSION_PRICE = 1  # رصيد مخصوم لكل عملية
+API_ID = 30551925
+API_HASH = "f7d2cce78fbc899d734f69ef0434cb2a"
